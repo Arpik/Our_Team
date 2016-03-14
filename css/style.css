@@ -1,0 +1,64 @@
+#one {
+    background-color: #238966;
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    padding: 20px;
+    width: 620px;
+}
+
+#two {
+    background-color: #FFFFFF;
+    border-color: black;
+    color: white;
+    padding: 40px;
+    width: 500px;
+
+}
+
+#three {
+    background-color: #A9A9A9;
+    color: white;
+    padding: 75px;
+    width: 510px;
+}
+
+#four {
+    position: absolute;
+    background-color: #238966;
+    padding: 30px;
+    width: 600px;
+}
+
+#five {
+    background-color: #FFFFF;
+    color: white;
+    padding: 100px;
+    width: 500px;
+}
+
+#six {
+    position: absolute;
+    padding-top:;
+    background-color: #238966;
+    padding: 30px;
+    width: 600px;
+}
+
+#seven {
+    background-color: #FFFFF;
+    color: white;
+    padding: 30px;
+    width: 500px;
+}
+
+#circle {
+    position: absolute;
+    padding-left: 35px;
+}
+
+#circle1 {
+    position: absolute;
+    padding-left: 450px;
+
+}
